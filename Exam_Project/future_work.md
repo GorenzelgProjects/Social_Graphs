@@ -238,10 +238,4 @@ src/
 
 ---
 
-### How to link this file from `README.md`
-Add this bullet to the README’s **Table of Contents** (anywhere near Team Workflow):
-
-```markdown
-- [Future Work & Roadmap](FUTURE_WORK.md)
-```
 
